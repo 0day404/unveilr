@@ -1,15 +1,5 @@
 ![logo](./logo.svg)<br>
-[![badge](https://img.shields.io/badge/r3x5ur-unveilr-red)][repo]
-[![license](https://img.shields.io/github/license/r3x5ur/unveilr?v=2)][repo]
-[![languages](https://img.shields.io/github/languages/top/r3x5ur/unveilr)][repo]
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=https://github.com/r3x5ur/unveilr)][repo]
-[![visitor](https://img.shields.io/github/commit-activity/m/r3x5ur/unveilr)][repo]
-[![https://img.shields.io/npm/v/unveilr.svg](https://img.shields.io/npm/v/unveilr.svg)][npm]
-[![unveilr](https://img.shields.io/npm/dt/unveilr.svg)][npm]
-[![unveilr](https://img.shields.io/node/v/unveilr)][npm]
-[![release](https://github.com/r3x5ur/unveilr/actions/workflows/release.yml/badge.svg?event=push)][release]
-[![release](https://img.shields.io/github/downloads/r3x5ur/unveilr/total)][release]
-[![vul](https://img.shields.io/snyk/vulnerabilities/github/r3x5ur/unveilr)][repo]
+o]
 
 ## ！！！声明！！！
 
