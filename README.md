@@ -1,4 +1,4 @@
-![logo](./images/logo.svg)<br>
+![logo](./logo.svg)<br>
 [![badge](https://img.shields.io/badge/r3x5ur-unveilr-red)][repo]
 [![license](https://img.shields.io/github/license/r3x5ur/unveilr?v=2)][repo]
 [![languages](https://img.shields.io/github/languages/top/r3x5ur/unveilr)][repo]
