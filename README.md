@@ -1,4 +1,4 @@
-![logo](.\images\logo.svg)
+![logo](./images/logo.svg)
 
 ## ！！！声明！！！
 
